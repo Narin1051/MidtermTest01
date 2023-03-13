@@ -19,7 +19,22 @@
         Console.WriteLine ("Plz input second paper hieght : ");
         int height2 = int.Parse(Console.ReadLine());
 
-        
+        int left = Math.Max(x1 - wide1, x2 - wide2);
+        int right = Math.Min(x1 + wide1, x2 + wide2);
+        int top = Math.Max(y1 - height1, y2 - height2);
+        int bottom = Math.Min(y1 + height1, y2 + height2);
+
+        int overlap = Math.Max(0, right - left) * Math.Max(0, bottom - top);
+
+        if (overlap > 8){
+            Console.WriteLine("Too Much Overlapping");
+        }
+        else if (overlap > 0){
+            Console.WriteLine("Not Much Overlapping");
+        }
+        else{
+            Console.WriteLine("No Overlapping");
+        }
 
     }
 }
