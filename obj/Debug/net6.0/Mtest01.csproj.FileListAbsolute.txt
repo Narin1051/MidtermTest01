@@ -1,0 +1,15 @@
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\bin\Debug\net6.0\Mtest01.exe
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\bin\Debug\net6.0\Mtest01.deps.json
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\bin\Debug\net6.0\Mtest01.runtimeconfig.json
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\bin\Debug\net6.0\Mtest01.dll
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\bin\Debug\net6.0\Mtest01.pdb
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\obj\Debug\net6.0\Mtest01.csproj.AssemblyReference.cache
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\obj\Debug\net6.0\Mtest01.GeneratedMSBuildEditorConfig.editorconfig
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\obj\Debug\net6.0\Mtest01.AssemblyInfoInputs.cache
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\obj\Debug\net6.0\Mtest01.AssemblyInfo.cs
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\obj\Debug\net6.0\Mtest01.csproj.CoreCompileInputs.cache
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\obj\Debug\net6.0\Mtest01.dll
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\obj\Debug\net6.0\refint\Mtest01.dll
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\obj\Debug\net6.0\Mtest01.pdb
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\obj\Debug\net6.0\Mtest01.genruntimeconfig.cache
+D:\AUniWorkchop\Y1.2\ClassMDT112\Mtest01\obj\Debug\net6.0\ref\Mtest01.dll
